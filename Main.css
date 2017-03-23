@@ -1,0 +1,58 @@
+body{
+	background: darkblue;
+	border-width: 10px;
+	border-color: green;
+	border-radius: 6px;
+	border-spacing: 2px;
+	padding: 12px;
+}
+h1{
+	color: green;
+	background: black;
+/*	font-family: Jazz;*/
+}
+p{
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: darkgreen;
+}
+h3{
+	color: green;
+}
+.menuLinks{
+	display: inline-block;
+	font-weight: bold;
+	margin: 20px;
+	background: black;
+	border-width: 10px;
+	border-color: green;
+	border-radius: 6px;
+	border-spacing: 2px;
+	padding: 12px;
+}
+#emphasis{
+	display: inline-block;
+	color: green;
+}
+#italic{
+	display: inline-block;
+	color: orange;
+}
+.What{
+	margin: 50px;
+}
+.What p:first-child{
+	text-indent: 25px;
+}
+.What p{
+	display: inline-block;
+}
+.p{
+	display: inline-block;
+	color: white;
+}
+.What h3{
+	margin-left: 10px;
+}
